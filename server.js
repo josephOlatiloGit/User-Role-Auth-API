@@ -60,9 +60,7 @@ const authenticateAdmin = async (req) => {
 
     return { "valid": true, "msg": "Valid" }
 
-}
-
-
+};
 // function connectDb() {
 //     mongoose.connect("/localhost:207017/testDB.users")
 //         .then(connection => {
