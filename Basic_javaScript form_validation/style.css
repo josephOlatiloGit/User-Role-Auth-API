@@ -1,0 +1,9 @@
+.active-btn {
+  background-color: rgb(48, 141, 218);
+  color: white;
+  padding: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  transition: 0.45s;
+  transform: translate(10%);
+}
