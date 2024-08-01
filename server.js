@@ -5,7 +5,7 @@ const { validatePassword, encryptPassword, comparePassword } = require("./passwo
 const mongoose = require("mongoose")
 const cookieParser = require("cookie-parser")
 
-// user auth-api
+// user
 
 const app = express()
 app.use(cors())
